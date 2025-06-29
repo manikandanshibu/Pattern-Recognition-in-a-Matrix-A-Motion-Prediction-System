@@ -1,5 +1,4 @@
 # Pattern-Recognition-in-a-Matrix-A-Motion-Prediction-System
-# Pattern Recognition in a Matrix — A Motion Prediction System
 
 This project explores a real-time motion prediction system using matrix-based representations, multiverse forecasting, and lightweight neural fusion. It processes **pre-recorded video frames** to predict future object positions and visualize the trajectories using multiple motion models.
 
